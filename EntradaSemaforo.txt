@@ -1,0 +1,3 @@
+RedCar_GreenPed 3
+AlertaSom_ToPed 1
+GreenCar_RedPed 4
